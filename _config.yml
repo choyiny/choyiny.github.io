@@ -5,6 +5,8 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  
+repository: choyiny/choyiny.github.io
 
 permalink: /:year/:month/:day/:title/
 
