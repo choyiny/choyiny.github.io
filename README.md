@@ -8,6 +8,8 @@ Your personal website is waiting to be personalized, though. It includes space t
 
 It's all possible using the combination of [Jekyll](https://jekyllrb.com/docs/) (for building your website), [GitHub Pages](https://pages.github.com/) (for hosting your website), and [GitHub's API](https://developer.github.com/v3/) (for automatically populating your website with content).
 
+![](https://user-images.githubusercontent.com/221550/110506678-51906280-80cd-11eb-803a-c41984bd9312.png)
+
 ## Installation
 
 ### Fork the `github/personal-website` repo
@@ -123,15 +125,17 @@ social_media:
   dribbble: your_username  
   facebook: your_username
   hackerrank: your_username
+  instagram: your_username
+  keybase: your_username
   linkedin: your_username
-  medium: @your_username
+  medium: your_username
   stackoverflow: your_user_id
   telegram: your_username
   twitter: your_username
-  youtube: your_username
-  instagram: your_username
   unsplash: your_username
   vk: your_username
+  website: http://your_website_url
+  youtube: your_username
 ```
 
 Links to your profile for each of the services you define will appear in the `<header>` of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.
